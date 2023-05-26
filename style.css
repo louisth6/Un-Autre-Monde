@@ -1,0 +1,73 @@
+
+.logo {
+  height: 80px;
+  width: 80px;
+  background-image: url('https://drive.google.com/uc?id=1-p3d_9jU-U1tLbuUmBH8kugoJ-IJBz1R');
+  background-size: cover;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+
+header {
+  background-color: #FFA500;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+
+h1 {
+  color: #FFA500;
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin: 20px;
+}
+
+
+a {
+  color: #FFA500;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+h2 {
+  color: #FFA500;
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+h3 {
+  font-size: 1.2rem;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+
+a[target="_blank"] {
+  background-color: #FFA500;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+a[target="_blank"]:hover {
+  background-color: #fff;
+  color: #FFA500;
+}
